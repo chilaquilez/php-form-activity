@@ -37,5 +37,10 @@
             </form>
             </h2></h2>
         </div>
-    </body>
-</html>
+
+    <nav style="text-align:center; padding:10px; background:#eee;">
+    <a href="index.php">Home (Form)</a> | 
+    <a href="#">About</a> | 
+    <a href="#">Contact</a> | 
+    <a href="#">News</a>
+    </nav>
